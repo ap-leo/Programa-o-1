@@ -1,4 +1,4 @@
-# Programa-o-1
+# Programacaoo-1
 
 -Pilha
 Implementação do programas pilha.c com nodo cabeça e política LIFO (Last In First Out).
