@@ -1,7 +1,7 @@
 # Programa-o-1
 
 -Pilha
-Um programa 
+Implementação do programas pilha.c com nodo cabeça e política LIFO (Last In First Out).
 
 -Fila
 Implementação dos programas fila.c e lef.c com nodo cabeça e política FIFO (First In First Out).
